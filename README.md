@@ -1,4 +1,4 @@
-# vmodem
+
 The Virtual Modem script for Raspberry Pi and Linux based systems
 
  --------------------------------
@@ -53,3 +53,6 @@ Tested on Ubuntu and Debian based Linux but should work with some mods on other 
 
 There is also a serial to telnet server that is in testing if you wish to try, please click on the experimental branch
 and read the instructions in the file ser2telsvr.sh for more details.
+
+[General Usage]
+ - sudo ./vmodem# vmodem
