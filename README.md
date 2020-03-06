@@ -45,12 +45,11 @@ The Virtual Modem script for Raspberry Pi and Linux based systems
    - Type login to get a Linux Login Shell session from your terminal.
 
  o Telnet Session
-   - Type telnet to get a telnet session
+   - Type telnet to get a telnet session (!!if telnet is installed on your pi!!)
 
  ::NOTE:: !!if you have a 8250 UART you must use speeds of 19200 baud or lower!!
 
 Tested on Ubuntu and Debian based Linux but should work with some mods on other Unix/Linux based O/S
 
-There is also a serial to telnet server that is in testing if you wish to try read the instructions in 
-the file ser2telsvr.sh for more details.
-
+There is also a serial to telnet server that is in testing if you wish to try, please click on the experimental branch
+and read the instructions in the file ser2telsvr.sh for more details.
