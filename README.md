@@ -4,7 +4,7 @@ The Virtual Modem script for Raspberry Pi and Linux based systems
  --------------------------------
  VMODEM - Virtual Modem bootstrap
  --------------------------------
- Oliver Molini 2020 Billy Stoughton II/Lord_NT 2020
+ Oliver Molini 2019 Billy Stoughton II/Lord_NT 2020
 
  Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
  https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -33,7 +33,7 @@ The Virtual Modem script for Raspberry Pi and Linux based systems
    - Generic
      - Standard 28800 bps Modem
      - Standard 33600 bps Modem <-- Win2k and UP use this modem
-     (::NOTE:: dial ATDT2 to disable fake login if needed WinNT 3.51 - 10)
+     (::NOTE:: dial ATDT2 to disable fake login if needed Win2k-10)
 
  o Serial Line Setup
    - Baud 57600 8,N,1 'No Flow Control'
@@ -50,3 +50,7 @@ The Virtual Modem script for Raspberry Pi and Linux based systems
  ::NOTE:: !!if you have a 8250 UART you must use speeds of 19200 baud or lower!!
 
 Tested on Ubuntu and Debian based Linux but should work with some mods on other Unix/Linux based O/S
+
+There is also a serial to telnet server that is in testing if you wish to try read the instructions in 
+the file ser2telsvr.sh for more details.
+
