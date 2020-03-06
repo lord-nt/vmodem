@@ -126,7 +126,7 @@ exec 99<>/dev/$serport
 
 sendtty ""
 sendtty "VMODEM - Virtual Modem bootstrap for PPP link v$vmodver"
-sendtty "'Oliver Molini' 2019 'Billy Stoughton II/Lord_NT' 2020"
+sendtty "'Oliver Molini' 2020 'Billy Stoughton II/Lord_NT' 2020"
 sendtty "Connection speed set to $baud baud"
 sendtty ""
 sendtty "TYPE HELP FOR COMMANDS"
