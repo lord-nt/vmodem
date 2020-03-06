@@ -46,7 +46,7 @@ The Virtual Modem script for Raspberry Pi and Linux based systems
 
  o Telnet Session
    - Type ATDT3 to get a telnet session to a scripted site ::default:: towel.blinkenlights.nl
-     edit 3.sh if needed to change site.(!!if telnet is installed on your pi!!)
+     edit 3.sh if needed to change site. (!!if telnet is installed on your pi!!)
 
  ::NOTE:: !!if you have a 8250 UART you must use speeds of 19200 baud or lower!!
 
