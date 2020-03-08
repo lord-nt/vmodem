@@ -2,7 +2,7 @@
 The Virtual Modem script for Raspberry Pi and Linux based systems
 
  --------------------------------
- VMODEM - Virtual Modem bootstrap
+ VMODEM - Virtual Modem bootstrap [experimental branch]
  --------------------------------
  Oliver Molini 2020 Billy Stoughton II/Lord_NT 2020
 
