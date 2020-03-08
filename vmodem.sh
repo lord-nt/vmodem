@@ -51,7 +51,7 @@
 #degc=(`vcgencmd measure_temp | sed -e "s/temp=//g" | sed "s/['']C//g"`)
 
 # Script version
-vmodver=1.4.2b_NT
+vmodver=1.4.2c_NT
 
 # CONFIGURATION
 # -----------------------
